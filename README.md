@@ -8,19 +8,19 @@
 
 * User Registeration | Sign Up Page
 
-![User Sign Up](media/lugagawwwards-web-app-screen-grabs/sign-up.PNG)
+![User Sign Up](media/lugagawwwards-web-app-screen-grabs/sign-up.png)
 
 * User Login Page
 
-![User Login](media/lugagawwwards-web-app-screen-grabs/login.PNG)
+![User Login](media/lugagawwwards-web-app-screen-grabs/login-page.png)
 
-* User Registeration | Sign Up Page
+* Home Page
 
-![Home Page](media/lugagawwwards-web-app-screen-grabs/home-page.PNG)
+![Home Page](media/lugagawwwards-web-app-screen-grabs/home-page.png)
 
 * User Profile Page
 
-![User Profile](media/lugagawwwards-web-app-screen-grabs/user-profile.PNG)
+![User Profile](media/lugagawwwards-web-app-screen-grabs/profile-page.png)
 
 ## Description
 
