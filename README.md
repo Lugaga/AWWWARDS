@@ -58,7 +58,7 @@
 
 ### License and Copyright details
 
-* The MIT License [MIT]()
+* The MIT License [MIT](LICENSE)
 * Copyright (c) 2019 **Engineer Lugaga**
 
 
